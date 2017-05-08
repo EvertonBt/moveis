@@ -4,3 +4,9 @@ font-family: sans-serif;
 li {
 font-family: monospace;
 }
+
+body {
+	width: 50%;
+	 background: #eded53;
+	 margin: auto;
+}
